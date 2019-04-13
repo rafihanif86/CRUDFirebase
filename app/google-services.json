@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "394277934190",
+    "firebase_url": "https://rafihanifr-22f0a.firebaseio.com",
+    "project_id": "rafihanifr-22f0a",
+    "storage_bucket": "rafihanifr-22f0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394277934190:android:ec6249d5971ffa83",
+        "android_client_info": {
+          "package_name": "RafiHanifR.FirreBaseCRUD"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394277934190-nook1bipvspcc2sgu7l3cvsl6r1e3p54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "RafiHanifR.FirreBaseCRUD",
+            "certificate_hash": "08647ed6212e0e0cc8c231c6587ecc65f200c70f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRzZ2cXvVS-XhfuRuedWcPhvUwl2bBzRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394277934190-8p4krrffigi75o1qls3qsq1ftovl7a2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
